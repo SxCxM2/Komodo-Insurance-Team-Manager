@@ -1,0 +1,6 @@
+C:\Users\nounv\source\repos\KITM\PocosAndRepos\bin\Debug\PocosAndRepos.dll
+C:\Users\nounv\source\repos\KITM\PocosAndRepos\bin\Debug\PocosAndRepos.pdb
+C:\Users\nounv\source\repos\KITM\PocosAndRepos\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\nounv\source\repos\KITM\PocosAndRepos\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\nounv\source\repos\KITM\PocosAndRepos\obj\Debug\PocosAndRepos.dll
+C:\Users\nounv\source\repos\KITM\PocosAndRepos\obj\Debug\PocosAndRepos.pdb

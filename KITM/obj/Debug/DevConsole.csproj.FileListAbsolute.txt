@@ -1,0 +1,10 @@
+C:\Users\nounv\source\repos\KITM\KITM\bin\Debug\KITM.exe.config
+C:\Users\nounv\source\repos\KITM\KITM\bin\Debug\KITM.exe
+C:\Users\nounv\source\repos\KITM\KITM\bin\Debug\KITM.pdb
+C:\Users\nounv\source\repos\KITM\KITM\bin\Debug\PocosAndRepos.dll
+C:\Users\nounv\source\repos\KITM\KITM\bin\Debug\PocosAndRepos.pdb
+C:\Users\nounv\source\repos\KITM\KITM\obj\Debug\DevConsole.csproj.AssemblyReference.cache
+C:\Users\nounv\source\repos\KITM\KITM\obj\Debug\DevConsole.csproj.CoreCompileInputs.cache
+C:\Users\nounv\source\repos\KITM\KITM\obj\Debug\DevConsole.csproj.CopyComplete
+C:\Users\nounv\source\repos\KITM\KITM\obj\Debug\KITM.exe
+C:\Users\nounv\source\repos\KITM\KITM\obj\Debug\KITM.pdb
